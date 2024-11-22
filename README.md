@@ -1,6 +1,6 @@
 # penguin-funny
 
-NOTE: Project made on freeCodeCamp
+NOTE: Project developed on the freeCodeCamp platform
 
 Description:
 Learn CSS Transforms by Building a Penguin.
